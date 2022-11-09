@@ -1,7 +1,1 @@
----
-layout: page
-title: Hello World!
-tagline: Supporting tagline
----
-
-
+<a rel="me" href="https://mastodon.social/@MadGoat">Mastodon</a>
